@@ -23,6 +23,10 @@ p {
   margin-bottom: 24px;
 }
 
+.btn-contact + .btn-contact {
+  margin-left: 16px;
+}
+
 .btn-contact {
   display: inline-block;
   background-color: #4F56F0;
